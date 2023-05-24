@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imz.ConexionMedidor", "imz.ConexionMedidor\imz.ConexionMedidor.csproj", "{A07B6780-8E8B-4B4D-9166-7C3F4F0BD51F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloLectura", "ModeloLectura\ModeloLectura.csproj", "{A44B8763-62EC-4D53-ABE3-B25AF6A32349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorSocket", "ServidorSocket\ServidorSocket.csproj", "{1C3701CB-65DD-4E95-8C4D-E76BBC9A550D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladorMedidor", "SimuladorMedidor\SimuladorMedidor.csproj", "{89694D56-AC7F-4A79-88D6-8B2AE89C0415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladorMedidorUt", "SimuladorMedidorUt\SimuladorMedidorUt.csproj", "{3CCCA12F-86D3-424B-8EE8-04A8AF9D1FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A07B6780-8E8B-4B4D-9166-7C3F4F0BD51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07B6780-8E8B-4B4D-9166-7C3F4F0BD51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07B6780-8E8B-4B4D-9166-7C3F4F0BD51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07B6780-8E8B-4B4D-9166-7C3F4F0BD51F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44B8763-62EC-4D53-ABE3-B25AF6A32349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44B8763-62EC-4D53-ABE3-B25AF6A32349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44B8763-62EC-4D53-ABE3-B25AF6A32349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44B8763-62EC-4D53-ABE3-B25AF6A32349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3701CB-65DD-4E95-8C4D-E76BBC9A550D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3701CB-65DD-4E95-8C4D-E76BBC9A550D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3701CB-65DD-4E95-8C4D-E76BBC9A550D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3701CB-65DD-4E95-8C4D-E76BBC9A550D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89694D56-AC7F-4A79-88D6-8B2AE89C0415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89694D56-AC7F-4A79-88D6-8B2AE89C0415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89694D56-AC7F-4A79-88D6-8B2AE89C0415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89694D56-AC7F-4A79-88D6-8B2AE89C0415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CCCA12F-86D3-424B-8EE8-04A8AF9D1FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCCA12F-86D3-424B-8EE8-04A8AF9D1FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCCA12F-86D3-424B-8EE8-04A8AF9D1FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCCA12F-86D3-424B-8EE8-04A8AF9D1FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {730AB01C-26E3-4490-A53C-227CD555F059}
+	EndGlobalSection
+EndGlobal

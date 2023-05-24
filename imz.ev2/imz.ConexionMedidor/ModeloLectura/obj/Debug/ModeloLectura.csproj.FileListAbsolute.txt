@@ -1,0 +1,6 @@
+T:\imz.ev2\imz.ConexionMedidor\ModeloLectura\bin\Debug\ModeloLectura.dll
+T:\imz.ev2\imz.ConexionMedidor\ModeloLectura\bin\Debug\ModeloLectura.pdb
+T:\imz.ev2\imz.ConexionMedidor\ModeloLectura\obj\Debug\ModeloLectura.csproj.AssemblyReference.cache
+T:\imz.ev2\imz.ConexionMedidor\ModeloLectura\obj\Debug\ModeloLectura.csproj.CoreCompileInputs.cache
+T:\imz.ev2\imz.ConexionMedidor\ModeloLectura\obj\Debug\ModeloLectura.dll
+T:\imz.ev2\imz.ConexionMedidor\ModeloLectura\obj\Debug\ModeloLectura.pdb

@@ -1,0 +1,6 @@
+T:\imz.ev2\imz.ConexionMedidor\SimuladorMedidorUt\bin\Debug\SimuladorMedidorUt.dll
+T:\imz.ev2\imz.ConexionMedidor\SimuladorMedidorUt\bin\Debug\SimuladorMedidorUt.pdb
+T:\imz.ev2\imz.ConexionMedidor\SimuladorMedidorUt\obj\Debug\SimuladorMedidorUt.csproj.AssemblyReference.cache
+T:\imz.ev2\imz.ConexionMedidor\SimuladorMedidorUt\obj\Debug\SimuladorMedidorUt.csproj.CoreCompileInputs.cache
+T:\imz.ev2\imz.ConexionMedidor\SimuladorMedidorUt\obj\Debug\SimuladorMedidorUt.dll
+T:\imz.ev2\imz.ConexionMedidor\SimuladorMedidorUt\obj\Debug\SimuladorMedidorUt.pdb
